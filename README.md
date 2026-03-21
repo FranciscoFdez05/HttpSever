@@ -19,7 +19,7 @@ git clone https://github.com/FranciscoFdez05/HttpSever.git
 ```
 o Descargar el ejecutable desde [Releases](https://github.com/FranciscoFdez05/HttpSever/releases)
 
-### 📋 Manual de uso
+## 📋 Manual de uso
 1. Seleccionamos el puerto en el que queremos levantar el servidor en `Puerto`
 
 ![](img/HttpServerSelecPort.png)
