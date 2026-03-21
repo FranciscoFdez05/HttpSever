@@ -21,21 +21,27 @@ o Descargar el ejecutable desde [Releases](https://github.com/FranciscoFdez05/Ht
 
 ### 📋 Manual de uso
 1. Seleccionamos el puerto en el que queremos levantar el servidor en `Puerto`
+
 ![](img/HttpServerSelecPort.png)
 
-2. Subimos el archivos que queremos pasar con `Subir Archivo`
+3. Subimos el archivos que queremos pasar con `Subir Archivo`
+
 ![](img/HttpServerSubirArchivo.png)
 
-3. Levantamos el servidor con `Server Up`
+4. Levantamos el servidor con `Server Up`
+
 ![](img/HttpServerUp.png)
 
 5. Copiamos o escribimos el comando que aparece en `Copiar` para descargar el archivo seleccionado
+
 ![](img/HttpServerCopiar.png)
 
 - Podemos ver la consola de comandos con los logs
+
 ![](img/HttpServerLogs.png)
 
-5. Apagamos el servidor con `Server Down`
+6. Apagamos el servidor con `Server Down`
+
 ![](img/HttpServerDown.png)
 
 ## 🤝 Contribuir
