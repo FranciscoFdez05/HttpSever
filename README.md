@@ -36,13 +36,14 @@ o Descargar el ejecutable desde [Releases](https://github.com/FranciscoFdez05/Ht
 
 ![](img/HttpServerCopiar.png)
 
+6. Apagamos el servidor con `Server Down`
+
+![](img/HttpServerDown.png)
+
 - Podemos ver la consola de comandos con los logs
 
 ![](img/HttpServerLogs.png)
 
-6. Apagamos el servidor con `Server Down`
-
-![](img/HttpServerDown.png)
 
 ## 🤝 Contribuir
 Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos:
