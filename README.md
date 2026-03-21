@@ -27,10 +27,10 @@ o Descargar el ejecutable desde [Releases](https://github.com/FranciscoFdez05/Ht
 ![](img/HttpServerSubirArchivo.png)
 
 3. Levantamos el servidor con `Server Up`
-   ![](img/HttpServerUp.png)
+![](img/HttpServerUp.png)
 
-4. Copiamos o escribimos el comando que aparece en `Copiar` para descargar el archivo seleccionado
- ![](img/Pasted image 20260321141257.png)
+5. Copiamos o escribimos el comando que aparece en `Copiar` para descargar el archivo seleccionado
+![](img/HttpServerCopiar.png)
 
 - Podemos ver la consola de comandos con los logs
 ![](img/HttpServerLogs.png)
