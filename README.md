@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="Assets/logo.svg" alt="Logo de HttpServer" width="128" height="128">
+  <img src="Assets/logo.png" alt="HttpServer" width="128">
 </p>
 
 <h1 align="center">HttpServer</h1>
 
-[![CI](https://img.shields.io/github/actions/workflow/status/FranciscoFdez05/HttpSever/build.yml?branch=master&label=CI&logo=github)](https://github.com/FranciscoFdez05/HttpSever/actions/workflows/build.yml)
-[![Release](https://img.shields.io/github/v/release/FranciscoFdez05/HttpSever?label=versi%C3%B3n)](https://github.com/FranciscoFdez05/HttpSever/releases)
-[![.NET 10](https://img.shields.io/badge/.NET-10-512BD4)](https://dotnet.microsoft.com/download/dotnet/10.0)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE.txt)
+<p align="center">
+  <a href="https://github.com/FranciscoFdez05/HttpSever/releases/latest"><img src="https://img.shields.io/github/v/release/FranciscoFdez05/HttpSever?label=versi%C3%B3n" alt="Última versión"></a>
+  <a href="https://github.com/FranciscoFdez05/HttpSever/actions/workflows/build.yml"><img src="https://github.com/FranciscoFdez05/HttpSever/actions/workflows/build.yml/badge.svg" alt="CI"></a>
+  <img src="https://img.shields.io/badge/.NET-10-512BD4" alt=".NET 10">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4" alt="Windows 10 | 11">
+  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT"></a>
+</p>
 
 HttpServer comparte un archivo con otros equipos de tu red local en un par de clics: eliges el archivo, pulsas «Iniciar servidor» y copias el comando de descarga (`wget`, `curl`, PowerShell…) o abres la URL en cualquier navegador. Es una aplicación de escritorio para Windows, sin instalación ni configuración.
 
