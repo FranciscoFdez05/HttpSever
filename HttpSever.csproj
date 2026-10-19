@@ -6,6 +6,33 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HttpServer</RootNamespace>
+    <AssemblyName>HttpServer</AssemblyName>
+    <ApplicationIcon>Assets\logo.ico</ApplicationIcon>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <SatelliteResourceLanguages>es</SatelliteResourceLanguages>
   </PropertyGroup>
+
+  <PropertyGroup Label="Información del ensamblado">
+    <Version>2.0.0</Version>
+    <Product>HttpServer</Product>
+    <Title>HttpServer</Title>
+    <Description>Comparte archivos entre equipos de la misma red local mediante HTTP.</Description>
+    <Authors>Francisco</Authors>
+    <Company>Francisco</Company>
+    <Copyright>Copyright © Francisco 2026</Copyright>
+    <RepositoryUrl>https://github.com/FranciscoFdez05/HttpSever</RepositoryUrl>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Publicación">
+    <RuntimeIdentifier Condition="'$(RuntimeIdentifier)' == '' and '$(_IsPublishing)' == 'true'">win-x64</RuntimeIdentifier>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>false</SelfContained>
+    <DebugType Condition="'$(Configuration)' == 'Release'">embedded</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\logo.ico" LogicalName="HttpServer.logo.ico" />  </ItemGroup>
 
 </Project>
